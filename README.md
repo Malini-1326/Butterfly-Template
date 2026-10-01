@@ -2,10 +2,6 @@
 
 A modern website template built using HTML, CSS, and AOS (Animate On Scroll) animations.
 
-## 🌐 Live Demo
-
-[View Live Website](https://malu-butterfly-template.netlify.app)
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -23,7 +19,7 @@ A modern website template built using HTML, CSS, and AOS (Animate On Scroll) ani
 
 ## 📁 Project Structure
 
-ctext
+```text
 Butterfly-Template/
 │
 ├── css/
